@@ -24,13 +24,13 @@ Personal portfolio website untuk menampilkan profil, skills, pengalaman, dan pro
 Clone repository:
 
 ```bash
-git clone https://github.com/MuhamadBunan/web-portfoliodari.git
+git clone https://github.com/MuhamadBunan/web-portfolio.git
 ```
 
 Masuk ke folder project:
 
 ```bash
-cd web-portfoliodari
+cd web-portfolio
 ```
 
 Install dependencies:
@@ -56,6 +56,6 @@ Project ini dibuat sebagai **personal portfolio** sekaligus sebagai media untuk 
 **Muhamad Bunan**
 
 * GitHub: [@MuhamadBunan](https://github.com/MuhamadBunan)
-* Portfolio: [Web Portfolio](https://github.com/MuhamadBunan/web-portfoliodari)
+* Portfolio: [Web Portfolio](https://github.com/MuhamadBunan/web-portfolio)
 
 ---
